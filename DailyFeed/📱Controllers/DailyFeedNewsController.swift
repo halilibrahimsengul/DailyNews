@@ -9,6 +9,7 @@ import UIKit
 import Lottie
 import DZNEmptyDataSet
 import PromiseKit
+import AVKit
 
 class DailyFeedNewsController: UICollectionViewController {
 
